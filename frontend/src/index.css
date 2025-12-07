@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #e8e8ef;
 }
 
 input {
@@ -15,9 +15,10 @@ input {
 }
 
 .course-card {
-  background: #fff;
+  background: #ffffff;
   border-radius: 8px;
   padding: 16px;
   margin-bottom: 12px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  border-left: 6px solid #4CAF50;
 }
