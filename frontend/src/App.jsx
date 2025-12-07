@@ -23,7 +23,7 @@ function App() {
   );
 
   return (
-    <div style={{ maxWidth: "600px", margin: "auto", padding: "20px" }}>
+    <div style={{ maxWidth: "800px", margin: "auto", padding: "20px" }}>
       <h1>Course Finder</h1>
       <p><strong>Motivation:</strong> {quote}</p>
 
